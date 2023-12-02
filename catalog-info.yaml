@@ -7,7 +7,7 @@ metadata:
     github.com/project-slug: daasdot/backstage-demo
 spec:
   type: website
-  owner: backstage/maintainers
+  owner: dibset
   lifecycle: experimental
   consumesApis:
     - demo-graphql
